@@ -1,3 +1,6 @@
+# Rui Xu
+# Purpose: for Number Guessing Game assignment
+
 import random
 def startGame():
 
